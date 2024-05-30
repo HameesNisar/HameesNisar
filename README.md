@@ -17,7 +17,6 @@
   <a href="https://x.com/NerdyPineChrip">
     <img src="https://img.shields.io/static/v1?message=Profile&logo=X&label=&color=0077B5&logoColor=black&labelColor=&style=for-the-badge%22%20height=%2235%22%20alt=%22x%20logo">
   </a>
-  </a>
   <a href="mailto:hameesnisar1@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo">
 </p>
@@ -38,7 +37,7 @@ I'm an aspiring cybersecurity enthusiast, just starting my journey in the field.
     <img align="left" width="30" src="https://github.com/HameesNisar/HameesNisar/assets/164525130/0897ae9b-4775-46d2-9409-0ab6dfd660ba" style="vertical-align: middle;">
   </a>
   <span style="font-size: 20px; vertical-align: middle;"><b>Portfolio Activities</b></span>
-  <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=HameesNisar&show_icons=true&theme=radical" />
+  <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=HameesNisar&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="left">
