@@ -27,9 +27,9 @@ I'm an aspiring cybersecurity enthusiast, just starting my journey in the field.
 
 <br>🔭 I’m currently working on ... <br> - Discovering my niche in IT and Cybersecurity through self-learning and hands-on exploration. <br> - Enhancing my skills on platforms like TryHackMe by engaging in cybersecurity challenges, hands-on walkthroughs, and capture the flag exercises. <br> - Actively job searching and applying to re-enter the IT field, open to relocation, internships, and apprenticeships.
 
-🌱📚 I’m currently learning ... <br> - CS50 <img src="https://cs50.ai/static/img/ddb50.gif" width="20" /> <br> - Networking & Networking Tools <br> - Malware Analysis <br> - Firewalls <br> - Encryption & Cryptography
+🌱📚 I’m currently learning ... <br> - CS50 <img src="https://cs50.ai/static/img/ddb50.gif" width="20" /> <br> - Networking & Networking Tools <br> - Malware Analysis <br> - Firewalls <br> - Encryption & Cryptography  <br> - C  <br> - Python
 
-⚡ In my free time, I ... <br> - Learn something new everyday, <br> - Look into the latest events, trends, and news on cyberattacks and threats in cyberspace, <br> - Learn spoken language (Currently German).
+⚡ In my free time, I ... <br> - Learn something new everyday, <br> - Look into the latest events, trends, and news on cyberattacks and threats in cyberspace, <br> - Play Angry Birds.
 
 ## ⚡Showcases⚡
 <p align="left">
