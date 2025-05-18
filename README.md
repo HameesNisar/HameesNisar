@@ -32,7 +32,7 @@ I’m diving deep into cybersecurity and computer science — not just to unders
   <li>Carving my own path through hands-on labs, real-world scenarios, and continuous learning.</li>
   <li>Keeping up with the latest cyber threats, vulnerabilities, and security tools — staying one step ahead is the game.</li>
   <li>Mastering tools and techniques on TryHackMe, Hack The Box, and other platforms — turning theory into practical skills.</li>
-  <li>Building a solid foundation with certifications like CCNA, Security+, and Google Cybersecurity — pushing myself to be job-ready.</li>
+  <li>Building a solid foundation with certifications like Google Cybersecurity, CCNA, and Security+ — pushing myself to be job-ready.</li>
   <li>Polishing my resume and portfolio while actively applying to internships and jobs — no door too small, no opportunity too far.</li>
 </ul>
 
@@ -46,9 +46,16 @@ I’m diving deep into cybersecurity and computer science — not just to unders
   <li>🔒 CompTIA Security+ (planned)</li>
 </ul>
 
-🌱📚 I’m currently learning ... <br> - CS50 <img src="https://cs50.ai/static/img/ddb50.gif" width="20" /> <br> - Networking & Networking Tools <br> - Malware Analysis <br> - Firewalls <br> - Encryption & Cryptography  <br> - C  <br> - Python
-
-⚡ In my free time, I ... <br> - Learn something new everyday, <br> - Look into the latest events, trends, and news on cyberattacks and threats in cyberspace, <br> - Play Angry Birds.
+<h2>🌱 Currently Learning</h2>
+<ul>
+  <li>📡 <strong>CCNA:</strong> Cisco Certified Network Associate (Studying)</li>
+  <li>🧠 <strong>Google Cybersecurity Professional Certificate</strong> (Studying)</li>
+  <li>🚀 <strong>CCNP:</strong> Enterprise Infrastructure & Security (Planned)</li>
+  <li>🛡️ <strong>Firewalls & Advanced Network Defense</strong> (Planned)</li>
+  <li>☁️ <strong>Cloud Security Fundamentals</strong> (Planned)</li>
+  <li>🔒 <strong>CompTIA Security+</strong> (Planned)</li>
+  <li>📚 <em>Also pursuing various CPE courses</em> such as "The Complete Cyber Security Course" series (Hackers Exposed, Network Security, Endpoint Protection, etc.) to strengthen foundational knowledge.</li>
+</ul>
 
 ## ⚡Showcases⚡
 <p align="left">
