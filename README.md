@@ -23,7 +23,7 @@
 
 ## About Me
 <img align="right" width="200" src="https://github.com/HameesNisar/HameesNisar/assets/164525130/22fe2423-0883-49e4-b886-084b9c711310"/>
-I'm an aspiring cybersecurity enthusiast, just starting my journey in the field. With a diploma in computer applications, committed to deepening my knowledge in cybersecurity. My interests lie particularly in network security and cryptography, where I enjoy exploring the intricacies of protecting information and systems.
+I’m diving deep into cybersecurity and computer science — not just to understand how systems work, but how to break, fix, and secure them. I thrive on logic, chase the thrill of solving complex problems, and never stop learning. Whether it’s scripting, networking, or system hardening, I don’t just want to follow the rules — I want to master the entire landscape.
 
 <br>🔭 I’m currently working on ... <br> - Discovering my niche in IT and Cybersecurity through self-learning and hands-on exploration. <br> - Enhancing my skills on platforms like TryHackMe by engaging in cybersecurity challenges, hands-on walkthroughs, and capture the flag exercises. <br> - Actively job searching and applying to re-enter the IT field, open to relocation, internships, and apprenticeships.
 
