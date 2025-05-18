@@ -36,6 +36,16 @@ I’m diving deep into cybersecurity and computer science — not just to unders
   <li>Polishing my resume and portfolio while actively applying to internships and jobs — no door too small, no opportunity too far.</li>
 </ul>
 
+<h2>🎓 Certifications</h2>
+<ul>
+  <li>📘 <a href="https://certificates.cs50.io/f2175dde-2ed6-4624-8818-26e25dcc5a0e.png?size=A4" target="_blank" rel="noopener noreferrer">CS50x: Harvard’s Intro to Computer Science</a></li>
+  <li>🌐 <a href="https://certificates.cs50.io/faaacf3e-18bc-4fc9-bfbc-f8cabc3054f0.png?size=A4" target="_blank" rel="noopener noreferrer">CS50 Cybersecurity Certificate</a> (in progress)</li>
+  <li>🧠 Google Cybersecurity Professional Certificate (studying)</li>
+  <li>🧠 Cisco CCNA (studying)</li>
+  <li>🔒 CompTIA Security+ (planned)</li>
+</ul>
+
+
 🌱📚 I’m currently learning ... <br> - CS50 <img src="https://cs50.ai/static/img/ddb50.gif" width="20" /> <br> - Networking & Networking Tools <br> - Malware Analysis <br> - Firewalls <br> - Encryption & Cryptography  <br> - C  <br> - Python
 
 ⚡ In my free time, I ... <br> - Learn something new everyday, <br> - Look into the latest events, trends, and news on cyberattacks and threats in cyberspace, <br> - Play Angry Birds.
