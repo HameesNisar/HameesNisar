@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo">
   </a>
   <a href="https://t.me/ChripPine">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=0077B5&logoColor=white&style=for-the-badge">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=0077B5&logoColor=white&style=for-the-badge height="20"">
   </a>
   <a href="https://x.com/NerdyPineChrip">
     <img src="https://img.shields.io/static/v1?message=Profile&logo=X&label=&color=0077B5&logoColor=black&labelColor=&style=for-the-badge%22%20height=%2235%22%20alt=%22x%20logo">
