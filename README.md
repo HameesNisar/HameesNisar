@@ -36,14 +36,12 @@ I’m diving deep into cybersecurity and computer science — not just to unders
   <li>Polishing my resume and portfolio while actively applying to internships and jobs — no door too small, no opportunity too far.</li>
 </ul>
 
-<strong>🎓 Certifications</strong>
+<h2>🎓 <strong>Certifications</strong></h2>
 <ul>
-  <li>📘 CS50x: <a href="https://certificates.cs50.io/f2175dde-2ed6-4624-8818-26e25dcc5a0e.png?size=A4" target="_blank" rel="noopener noreferrer">Harvard’s Intro to Computer Science</a> 
-    <img src="https://cs50.ai/static/img/ddb50.gif" width="20" alt="CS50x Certificate"/></li>
-  <li>🛡️ CS50 <a href="https://certificates.cs50.io/faaacf3e-18bc-4fc9-bfbc-f8cabc3054f0.png?size=A4" style="text-decoration:none;" target="_blank">Cybersecurity Certificate</a></li>
-  <li>🧠 Google Cybersecurity Professional Certificate (studying)</li>
-  <li>🧠 Cisco CCNA (studying)</li>
-  <li>🔒 CompTIA Security+ (planned)</li>
+  <li>📘 <strong>CS50x:</strong> <a href="https://certificates.cs50.io/f2175dde-2ed6-4624-8818-26e25dcc5a0e.png?size=A4" target="_blank" rel="noopener noreferrer">Harvard’s Intro to Computer Science</a>
+    <img src="https://cs50.ai/static/img/ddb50.gif" width="20" alt="CS50x Badge" />
+  </li>
+  <li>🛡️ <strong>CS50:</strong> <a href="https://certificates.cs50.io/faaacf3e-18bc-4fc9-bfbc-f8cabc3054f0.png?size=A4" target="_blank" rel="noopener noreferrer">Cybersecurity Certificate</a></li>
 </ul>
 
 <h2>🌱 Currently Learning</h2>
