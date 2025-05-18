@@ -45,6 +45,7 @@ I’m diving deep into cybersecurity and computer science — not just to unders
   <li>🔒 CompTIA Security+ (planned)</li>
 </ul>
 
+- 📘 [![CS50x](https://img.shields.io/badge/CS50x-Harvard-blue)](https://certificates.cs50.io/f2175dde-2ed6-4624-8818-26e25dcc5a0e.png?size=A4)
 
 🌱📚 I’m currently learning ... <br> - CS50 <img src="https://cs50.ai/static/img/ddb50.gif" width="20" /> <br> - Networking & Networking Tools <br> - Malware Analysis <br> - Firewalls <br> - Encryption & Cryptography  <br> - C  <br> - Python
 
