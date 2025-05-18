@@ -38,15 +38,13 @@ I’m diving deep into cybersecurity and computer science — not just to unders
 
 <strong>🎓 Certifications</strong>
 <ul>
-  📘 CS50x: Harvard’s Intro to Computer Science <a href="https://certificates.cs50.io/f2175dde-2ed6-4624-8818-26e25dcc5a0e.png?size=A4" target="_blank" rel="noopener noreferrer">
-    <img src="https://cs50.ai/static/img/ddb50.gif" width="20" alt="CS50x Certificate"/>
+  <li> 📘 CS50x: Harvard’s Intro to Computer Science <a href="https://certificates.cs50.io/f2175dde-2ed6-4624-8818-26e25dcc5a0e.png?size=A4" target="_blank" rel="noopener noreferrer">
+    <img src="https://cs50.ai/static/img/ddb50.gif" width="20" alt="CS50x Certificate"/></li>
   <li>🌐 <a href="https://certificates.cs50.io/faaacf3e-18bc-4fc9-bfbc-f8cabc3054f0.png?size=A4" style="text-decoration:none;" target="_blank">CS50 Cybersecurity Certificate</a></li>
   <li>🧠 Google Cybersecurity Professional Certificate (studying)</li>
   <li>🧠 Cisco CCNA (studying)</li>
   <li>🔒 CompTIA Security+ (planned)</li>
 </ul>
-
-- 📘 [![CS50x](https://img.shields.io/badge/CS50x-Harvard-blue)](https://certificates.cs50.io/f2175dde-2ed6-4624-8818-26e25dcc5a0e.png?size=A4)
 
 🌱📚 I’m currently learning ... <br> - CS50 <img src="https://cs50.ai/static/img/ddb50.gif" width="20" /> <br> - Networking & Networking Tools <br> - Malware Analysis <br> - Firewalls <br> - Encryption & Cryptography  <br> - C  <br> - Python
 
