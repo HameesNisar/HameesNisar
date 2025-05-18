@@ -25,7 +25,15 @@
 <img align="right" width="200" height = "200" src="https://github.com/HameesNisar/HameesNisar/assets/164525130/22fe2423-0883-49e4-b886-084b9c711310"/>
 I’m diving deep into cybersecurity and computer science — not just to understand how systems work, but how to break, fix, and secure them. I thrive on logic, chase the thrill of solving complex problems, and never stop learning. Whether it’s scripting, networking, or system hardening, I don’t just want to follow the rules — I want to master the entire landscape.
 
-<br>**🔭 I’m currently working on ...** <br> - Carving my own path in cybersecurity by diving deep into hands-on labs, real-world scenarios, and constant learning. <br> - Keeping up with the latest in cyber threats, vulnerabilities, and security tools — staying one step ahead is the game. <br> - Mastering tools and techniques on TryHackMe, HTB, and other platforms — turning theory into actual skills.<br> - Building a solid foundation with certifications like CCNA, Security+ and Google Cybersecurity, pushing myself to be job-ready. <br> - Polishing my resume and portfolio while applying to internships and jobs — no door too small or opportunity too far.
+<br>
+<strong>🔭 I’m currently working on...</strong>
+<ul>
+  <li>Carving my own path in cybersecurity by diving deep into hands-on labs, real-world scenarios, and continuous learning.</li>
+  <li>Keeping up with the latest cyber threats, vulnerabilities, and security tools — staying one step ahead is the game.</li>
+  <li>Mastering tools and techniques on TryHackMe, Hack The Box (HTB), and other platforms — turning theory into practical skills.</li>
+  <li>Building a solid foundation with certifications like CCNA, Security+, and Google Cybersecurity — pushing myself to be job-ready.</li>
+  <li>Polishing my resume and portfolio while actively applying to internships and jobs — no door too small, no opportunity too far.</li>
+</ul>
 
 🌱📚 I’m currently learning ... <br> - CS50 <img src="https://cs50.ai/static/img/ddb50.gif" width="20" /> <br> - Networking & Networking Tools <br> - Malware Analysis <br> - Firewalls <br> - Encryption & Cryptography  <br> - C  <br> - Python
 
