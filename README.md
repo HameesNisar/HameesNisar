@@ -4,7 +4,7 @@
   <img src="https://github.com/HameesNisar/HameesNisar/assets/164525130/a975f04b-70f9-4be5-bdf9-eb693502fd7d" alt="giphy">
 </p>
 
-<h3 align="center">A passionate CyberSecurity🛡enthusiast</h3>
+<h3 align="center">A passionate Cybersecurity enthusiast🛡</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HameesNisar" alt="Profile Visit Counter">
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo">
   </a>
   <a href="https://t.me/ChripPine">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge%22%20height=%2135%22%20alt=%22telegram%20logo">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&color=0077B5&logoColor=white&style=for-the-badge">
   </a>
   <a href="https://x.com/NerdyPineChrip">
     <img src="https://img.shields.io/static/v1?message=Profile&logo=X&label=&color=0077B5&logoColor=black&labelColor=&style=for-the-badge%22%20height=%2235%22%20alt=%22x%20logo">
@@ -29,9 +29,9 @@ I’m diving deep into cybersecurity and computer science — not just to unders
 <strong>🔭 I’m currently working on...</strong>
 <br>
 <ul>
-  <li>Carving my own path in cybersecurity by diving deep into hands-on labs, real-world scenarios, and continuous learning.</li>
+  <li>Carving my own path through hands-on labs, real-world scenarios, and continuous learning.</li>
   <li>Keeping up with the latest cyber threats, vulnerabilities, and security tools — staying one step ahead is the game.</li>
-  <li>Mastering tools and techniques on TryHackMe, Hack The Box (HTB), and other platforms — turning theory into practical skills.</li>
+  <li>Mastering tools and techniques on TryHackMe, Hack The Box, and other platforms — turning theory into practical skills.</li>
   <li>Building a solid foundation with certifications like CCNA, Security+, and Google Cybersecurity — pushing myself to be job-ready.</li>
   <li>Polishing my resume and portfolio while actively applying to internships and jobs — no door too small, no opportunity too far.</li>
 </ul>
