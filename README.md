@@ -22,10 +22,10 @@
 </p>
 
 ## About Me
-<img align="right" width="200" height = "200" src="https://github.com/HameesNisar/HameesNisar/assets/164525130/22fe2423-0883-49e4-b886-084b9c711310"/>
+<img align="right" width="250" height = "250" src="https://github.com/HameesNisar/HameesNisar/assets/164525130/22fe2423-0883-49e4-b886-084b9c711310"/>
 I’m diving deep into cybersecurity and computer science — not just to understand how systems work, but how to break, fix, and secure them. I thrive on logic, chase the thrill of solving complex problems, and never stop learning. Whether it’s scripting, networking, or system hardening, I don’t just want to follow the rules — I want to master the entire landscape.
 
-<br>
+<br><br>
 <strong>🔭 I’m currently working on...</strong>
 <ul>
   <li>Carving my own path in cybersecurity by diving deep into hands-on labs, real-world scenarios, and continuous learning.</li>
