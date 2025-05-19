@@ -146,12 +146,12 @@ I’m diving deep into cybersecurity and computer science — not just to unders
 
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/HameesNisar">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HameesNisar&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
+    <img height="180em" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HameesNisar&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
   </a>
 
   <!-- GitHub Stats Card -->
   <a href="https://github.com/HameesNisar">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HameesNisar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+    <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=HameesNisar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
   </a>
 
 </div>
