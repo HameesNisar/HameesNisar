@@ -79,6 +79,8 @@ I’m diving deep into cybersecurity and computer science — not just to unders
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HameesNisar&theme=tokyonight" alt="GitHub Streak" />
 </p>
