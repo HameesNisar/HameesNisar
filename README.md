@@ -55,11 +55,10 @@ I’m diving deep into cybersecurity and computer science — not just to unders
   <li>📚 <em>Also pursuing various CPE courses</em> such as "The Complete Cyber Security Course" series (Hackers Exposed, Network Security, Endpoint Protection, etc.) to strengthen foundational knowledge.</li>
 </ul>
 
+
 <!-- Portfolio Section -->
 <h2>🚀 Portfolio</h2>
-
 <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
-
   <!-- Left: Portfolio Projects -->
   <div style="flex: 1; min-width: 280px;">
     <a href="https://tryhackme.com/p/HameesNisar" target="_blank" style="text-decoration: none;">
@@ -70,15 +69,15 @@ I’m diving deep into cybersecurity and computer science — not just to unders
       <img src="https://img.shields.io/badge/Zora-%20AI%20Chatbot-blueviolet?style=for-the-badge&logo=github" alt="Zora - AI Chatbot">
     </a>
     <br><br>
-    <em>💡 More projects coming soon... including CS50 Finance!</em>
+    <em>💡 More projects coming soon...</em>
   </div>
-
+  
   <!-- Right: GitHub Language Chart -->
   <div style="flex: 1; min-width: 280px; text-align: right;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HameesNisar&layout=compact&langs_count=10&theme=radical" alt="Top Languages Used" />
   </div>
-
 </div>
+
 
 
 <br>
