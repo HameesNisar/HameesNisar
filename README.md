@@ -79,88 +79,73 @@ I’m diving deep into cybersecurity and computer science — not just to unders
 <p align="left">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" />
-
   <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C Language" width="40" />
-
   <!-- HTML5 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" />
-
   <!-- CSS3 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" />
-
   <!-- JavaScript -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" />
-
   <!-- PHP -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" />
-
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" />
-
   <!-- Flask -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="40" />
-
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" />
-
   <!-- GitHub -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" />
-
   <!-- Bash -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="40" />
-
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" />
 
-<!-- Networking & Cybersecurity Tools -->
+  <!-- Networking & Cybersecurity Tools -->
+  
+  <!-- Cisco -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" title="Cisco Networking" width="40" />
+  <!-- Wireshark -->
+  <img src="https://www.wireshark.org/assets/icons/wireshark-fin.png" title="Wireshark Packet Analyzer" width="40" />
+  <!-- Nmap -->
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" title="Nmap Network Scanner" width="40" />
+  <!-- Burp Suite -->
+  <img src="https://portswigger.net/content/images/logos/burp-suite-icon.svg" title="Burp Suite" width="40" />
+  <!-- VirtualBox -->
+  <img src="https://www.virtualbox.org/graphics/vbox_logo2_gradient.png" title="VirtualBox VM" width="40" height= "40"  />
+  <!-- VMware -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" title="VMware Workstation" width="40" />
+  <!-- TryHackMe -->
+  <img src="https://assets.tryhackme.com/img/favicon.png" title="TryHackMe" width="40" />
+  <!-- Metasploit -->
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" title="Metasploit Framework" width="40" />
+  <!-- Kali Linux -->
+  <img src="https://www.kali.org/images/kali-dragon-icon.svg" title="Kali Linux" width="40" />
+  <!-- OpenVPN -->
+  <img src="https://cdn.worldvectorlogo.com/logos/openvpn-2.svg" title="OpenVPN" width="40" />
+  </p>
 
-<!-- Cisco -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" title="Cisco Networking" width="40" />
-<!-- Wireshark -->
-<img src="https://www.wireshark.org/assets/icons/wireshark-fin.png" title="Wireshark Packet Analyzer" width="40" />
-<!-- Nmap -->
-<img src="https://nmap.org/images/nmap-logo-256x256.png" title="Nmap Network Scanner" width="40" />
-<!-- Burp Suite -->
-<img src="https://portswigger.net/content/images/logos/burp-suite-icon.svg" title="Burp Suite" width="40" />
-<!-- VirtualBox -->
-<img src="https://www.virtualbox.org/graphics/vbox_logo2_gradient.png" title="VirtualBox VM" width="40" height= "40"  />
-<!-- VMware -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" title="VMware Workstation" width="40" />
-<!-- TryHackMe -->
-<img src="https://assets.tryhackme.com/img/favicon.png" title="TryHackMe" width="40" />
-<!-- Metasploit -->
-<img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" title="Metasploit Framework" width="40" />
-<!-- Kali Linux -->
-<img src="https://www.kali.org/images/kali-dragon-icon.svg" title="Kali Linux" width="40" />
-<!-- OpenVPN -->
-<img src="https://cdn.worldvectorlogo.com/logos/openvpn-2.svg" title="OpenVPN" width="40" />
+<!-- 📊 GitHub Contributions Section -->
+<h2>📊 GitHub Contributions</h2>
+
+<!-- Snake Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HameesNisar/HameesNisar/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-
-
-
+<!-- GitHub Streak Stats -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HameesNisar&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<br>
-<br>
-<br>
-
-## 🔥Tech Stack🔥
-
-<p align="left">
-  <img src="https://github.com/HameesNisar/HameesNisar/assets/164525130/66172446-fe6f-48e5-9fbb-94a032f8e190" alt="Python" title="Python" width="48" height="48" />
-  <img src="https://github.com/HameesNisar/HameesNisar/assets/164525130/78a4104a-e0f4-49c3-a527-c3e43ca708d5" alt="Jupyter" title="Jupyter" width="48" height="48" />
-  <img src="https://github.com/HameesNisar/HameesNisar/assets/164525130/51aa2ba7-ee2f-4110-acde-c61c2206575f.gif" alt="Linux" title="Linux" width="48" height="48" />
-  <img src="https://github.com/HameesNisar/HameesNisar/assets/164525130/3f8ef279-7dfd-4fa0-86e4-d2ec49d98ec6" alt="Ubuntu" title="Ubuntu" width="48" height="48" />
-  <img src="https://github.com/HameesNisar/HameesNisar/assets/164525130/382632bd-b043-4b0c-a930-52910f50760f" alt="Kali Linux" title="Kali Linux" width="48" height="48" />  
-</p>
-
+<!-- GitHub Stats Card -->
 <p align="center">
-  <em>I am continuously learning and expanding my skill set. More technologies and tools will be added soon!</em>
+  <img src="https://github-readme-stats.vercel.app/api?username=HameesNisar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
+
+
+
 
 ## 🐍 Slithering Contributions 🐍
 <img src="https://raw.githubusercontent.com/HameesNisar/HameesNisar/output/snake.svg" alt="Snake animation" />
