@@ -140,6 +140,12 @@ I’m diving deep into cybersecurity and computer science — not just to unders
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/PfSense_logo.png" title="pfSense Firewall" width="40" /> 
   <!-- Palo Alto Networks -->
   <img src="https://www.paloaltonetworks.com/content/dam/pan/en_US/images/logos/brand/primary-company-logo/PANW_Parent_Brand_Primary_Logo_RGB.png" title="Palo Alto Networks" width="40" />
+  <!-- Alternative pfSense -->
+  <img src="https://blog.netgate.com/hubfs/Blog_Images/pfsense-logo-new.png" title="pfSense Firewall" width="40" />
+  <!-- Alternative Palo Alto -->
+  <img src="https://cdn.worldvectorlogo.com/logos/palo-alto-networks-1.svg" title="Palo Alto Networks" width="40" />
+  <!-- Alternative Firewall Icon -->
+  <img src="https://static-00.iconduck.com/assets.00/firewall-icon-512x512-bts6phxb.png" title="Firewalls" width="40" />
   </p>
 
 <!-- 📊 GitHub Contributions Section -->
