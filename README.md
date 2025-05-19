@@ -113,39 +113,28 @@ I’m diving deep into cybersecurity and computer science — not just to unders
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" />
 
-  <!-- Networking & Cybersecurity Tools -->
-  
-  <!-- Cisco -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" title="Cisco Networking" width="40" />
+<!-- Networking & Cybersecurity Tools -->
 
-  <!-- Wireshark -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" title="Wireshark Packet Analyzer" width="40" />
-
-  <!-- Nmap -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg" title="Nmap Network Scanner" width="40" />
-
-  <!-- Burp Suite (custom hosted icon as it’s not in Devicon) -->
-  <img src="https://raw.githubusercontent.com/hysic/BurpSuite-Logo/master/BurpSuite_Logo_Icon.png" title="Burp Suite" width="40" />
-
-  <!-- VirtualBox -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" title="VirtualBox VM" width="40" />
-
-  <!-- VMware -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" title="VMware Workstation" width="40" />
-
-  <!-- TryHackMe (custom) -->
-  <img src="https://raw.githubusercontent.com/tryhackme/branding/master/logo/tryhackme-icon-red.png" title="TryHackMe" width="40" />
-
-  <!-- Metasploit -->
-  <img src="https://www.metasploit.com/images/metasploit-logo.svg" title="Metasploit Framework" width="40" />
-
-  <!-- Kali Linux -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" title="Kali Linux" width="40" />
-
-  <!-- OpenVPN -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Openvpn-logo.svg" title="OpenVPN" width="40" />
-
-
+<!-- Cisco -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" title="Cisco Networking" width="40" />
+<!-- Wireshark -->
+<img src="https://www.wireshark.org/assets/icons/wireshark-fin.png" title="Wireshark Packet Analyzer" width="40" />
+<!-- Nmap -->
+<img src="https://nmap.org/images/nmap-logo-256x256.png" title="Nmap Network Scanner" width="40" />
+<!-- Burp Suite -->
+<img src="https://portswigger.net/content/images/logos/burp-suite-icon.svg" title="Burp Suite" width="40" />
+<!-- VirtualBox -->
+<img src="https://www.virtualbox.org/graphics/vbox_logo2_gradient.png" title="VirtualBox VM" width="40" />
+<!-- VMware -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" title="VMware Workstation" width="40" />
+<!-- TryHackMe -->
+<img src="https://assets.tryhackme.com/img/favicon.png" title="TryHackMe" width="40" />
+<!-- Metasploit -->
+<img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" title="Metasploit Framework" width="40" />
+<!-- Kali Linux -->
+<img src="https://www.kali.org/images/kali-dragon-icon.svg" title="Kali Linux" width="40" />
+<!-- OpenVPN -->
+<img src="https://cdn.worldvectorlogo.com/logos/openvpn-2.svg" title="OpenVPN" width="40" />
 </p>
 
 
