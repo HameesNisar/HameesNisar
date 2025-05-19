@@ -6,10 +6,9 @@
 
 <h3 align="center">A passionate Cybersecurity enthusiast🛡</h3>
 
-<!-- 📞 Contact -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HameesNisar&style=flat-square&color=blue" alt="Profile views"/>
-  <br><br>
+<!-- 📞 Connect With Me -->
+<h2 align="center">Connect With Me</h2>
+<p align="center">
   <a href="https://www.linkedin.com/in/hamees-nisar-bb49072b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;
@@ -22,7 +21,11 @@
   <a href="mailto:hameesnisar1@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-</div>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HameesNisar&style=flat-square&color=blue" alt="Profile views"/>
+</p>
 
 <h2>💡 About Me</h2> 
 <img align="right" width="250" height = "250" src="https://github.com/HameesNisar/HameesNisar/assets/164525130/22fe2423-0883-49e4-b886-084b9c711310"/>
