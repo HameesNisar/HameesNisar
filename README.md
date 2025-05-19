@@ -151,7 +151,7 @@ I’m diving deep into cybersecurity and computer science — not just to unders
 
 <!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HameesNisar&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HameesNisar&theme=radical" alt="GitHub Streak" />
 </p>
 
 <!-- GitHub Stats Card -->
