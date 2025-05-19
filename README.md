@@ -26,7 +26,7 @@
 I’m diving deep into cybersecurity and computer science — not just to understand how systems work, but how to break, fix, and secure them. I thrive on logic, chase the thrill of solving complex problems, and never stop learning. Whether it’s scripting, networking, or system hardening, I don’t just want to follow the rules — I want to master the entire landscape.<br>
 
 <br>
-<strong>🔭 I’m currently working on...</strong>
+<strong>👨‍💻 I’m currently working on...</strong>
 <br>
 <ul>
   <li>Carving my own path through hands-on labs, real-world scenarios, and continuous learning.</li>
@@ -54,6 +54,12 @@ I’m diving deep into cybersecurity and computer science — not just to unders
   <li>🔒 <strong>CompTIA Security+</strong> (Planned)</li>
   <li>📚 <em>Also pursuing various CPE courses</em> such as "The Complete Cyber Security Course" series (Hackers Exposed, Network Security, Endpoint Protection, etc.) to strengthen foundational knowledge.</li>
 </ul>
+
+<!-- GitHub Language Stats -->
+<div align="center">
+  <h2>Language Usage Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HameesNisar&layout=compact&theme=transparent" alt="Top Languages Used by HameesNisar">
+</div>
 
 ## ⚡Showcases⚡
 <p align="left">
