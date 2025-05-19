@@ -6,22 +6,24 @@
 
 <h3 align="center">A passionate Cybersecurity enthusiast🛡</h3>
 
+<!-- 📞 Contact -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HameesNisar" alt="Profile Visit Counter">
-  <a href="https://www.linkedin.com/in/hamees-nisar-bb49072b5/">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo">
+  <img src="https://komarev.com/ghpvc/?username=HameesNisar&style=flat-square&color=blue" alt="Profile views"/><br><br>
+  <a href="https://www.linkedin.com/in/hamees-nisar-bb49072b5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://t.me/ChripPine">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge%22%20height=%2135%22%20alt=%22telegram%20logo">
+  <a href="https://t.me/ChripPine" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://x.com/NerdyPineChrip">
-    <img src="https://img.shields.io/static/v1?message=Profile&logo=X&label=&color=0077B5&logoColor=black&labelColor=&style=for-the-badge%22%20height=%2235%22%20alt=%22x%20logo">
+  <a href="https://x.com/NerdyPineChrip" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
   <a href="mailto:hameesnisar1@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
-## About Me
+<h2>💡 About Me</h2> 
 <img align="right" width="250" height = "250" src="https://github.com/HameesNisar/HameesNisar/assets/164525130/22fe2423-0883-49e4-b886-084b9c711310"/>
 I’m diving deep into cybersecurity and computer science — not just to understand how systems work, but how to break, fix, and secure them. I thrive on logic, chase the thrill of solving complex problems, and never stop learning. Whether it’s scripting, networking, or system hardening, I don’t just want to follow the rules — I want to master the entire landscape.<br>
 
