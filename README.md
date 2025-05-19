@@ -6,14 +6,25 @@
 
 <h3 align="center">A passionate Cybersecurity enthusiast🛡</h3>
 
-<!-- Contact -->
-<div align="center">
-  <a href="https://www.linkedin.com/in/hamees-nisar-bb49072b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://t.me/ChripPine"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://x.com/NerdyPineChrip"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
-  <a href="mailto:hameesnisar1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <img src="https://komarev.com/ghpvc/?username=HameesNisar&style=flat-square&color=blue" alt="Profile views"/>
-</div>
+<!-- 📬 Let's Connect (Minimal Icons) -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/hamees-nisar-bb49072b5/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" style="margin: 0 10px;">
+  </a>
+  <a href="https://t.me/ChripPine" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram/2CA5E0" alt="Telegram" height="30" style="margin: 0 10px;">
+  </a>
+  <a href="https://x.com/NerdyPineChrip" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000" alt="X" height="30" style="margin: 0 10px;">
+  </a>
+  <a href="mailto:hameesnisar1@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Gmail" height="30" style="margin: 0 10px;">
+  </a>
+  <a href="https://github.com/HameesNisar" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" style="margin: 0 10px;">
+  </a>
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HameesNisar&style=flat-square&color=blue" alt="Profile views"/>
