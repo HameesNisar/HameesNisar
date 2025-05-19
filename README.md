@@ -116,7 +116,7 @@ I’m diving deep into cybersecurity and computer science — not just to unders
 <!-- Networking & Cybersecurity Tools -->
 
 <!-- Cisco -->
-<img src="https://www.cisco.com/favicon.ico" title="Cisco Networking" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" title="Cisco Networking" width="40" />
 <!-- Wireshark -->
 <img src="https://www.wireshark.org/assets/icons/wireshark-fin.png" title="Wireshark Packet Analyzer" width="40" />
 <!-- Nmap -->
