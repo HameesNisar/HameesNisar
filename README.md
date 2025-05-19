@@ -74,12 +74,82 @@ I’m diving deep into cybersecurity and computer science — not just to unders
   <em>💡 More projects coming soon...</em>
 </p>
 
-## 💻 Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
+<!-- Tech Arsenal Section -->
+<h2>🛠️ Tech Arsenal</h2>
+<p align="left">
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" />
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C Language" width="40" />
+
+  <!-- HTML5 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" />
+
+  <!-- CSS3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" />
+
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" />
+
+  <!-- PHP -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" />
+
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" />
+
+  <!-- Flask -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="40" />
+
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" />
+
+  <!-- GitHub -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" />
+
+  <!-- Bash -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="40" />
+
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" />
+
+  <!-- Networking & Cybersecurity Tools -->
+  
+  <!-- Cisco -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" title="Cisco Networking" width="40" />
+
+  <!-- Wireshark -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" title="Wireshark Packet Analyzer" width="40" />
+
+  <!-- Nmap -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nmap/nmap-original.svg" title="Nmap Network Scanner" width="40" />
+
+  <!-- Burp Suite (custom hosted icon as it’s not in Devicon) -->
+  <img src="https://raw.githubusercontent.com/hysic/BurpSuite-Logo/master/BurpSuite_Logo_Icon.png" title="Burp Suite" width="40" />
+
+  <!-- VirtualBox -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/virtualbox/virtualbox-original.svg" title="VirtualBox VM" width="40" />
+
+  <!-- VMware -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" title="VMware Workstation" width="40" />
+
+  <!-- TryHackMe (custom) -->
+  <img src="https://raw.githubusercontent.com/tryhackme/branding/master/logo/tryhackme-icon-red.png" title="TryHackMe" width="40" />
+
+  <!-- Metasploit -->
+  <img src="https://www.metasploit.com/images/metasploit-logo.svg" title="Metasploit Framework" width="40" />
+
+  <!-- Kali Linux -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" title="Kali Linux" width="40" />
+
+  <!-- OpenVPN -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Openvpn-logo.svg" title="OpenVPN" width="40" />
+
+
+</p>
+
+
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HameesNisar&theme=tokyonight" alt="GitHub Streak" />
