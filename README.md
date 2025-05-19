@@ -6,22 +6,14 @@
 
 <h3 align="center">A passionate Cybersecurity enthusiast🛡</h3>
 
-<!-- 📞 Connect With Me -->
-<h2 align="center">Connect With Me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/hamees-nisar-bb49072b5/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://t.me/ChripPine" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/NerdyPineChrip" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
-  </a>&nbsp;&nbsp;
-  <a href="mailto:hameesnisar1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+<!-- Contact -->
+<div align="center">
+  <a href="https://www.linkedin.com/in/hamees-nisar-bb49072b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://t.me/ChripPine"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="https://x.com/NerdyPineChrip"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
+  <a href="mailto:hameesnisar1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <img src="https://komarev.com/ghpvc/?username=HameesNisar&style=flat-square&color=blue" alt="Profile views"/>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HameesNisar&style=flat-square&color=blue" alt="Profile views"/>
