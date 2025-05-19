@@ -140,14 +140,35 @@ I’m diving deep into cybersecurity and computer science — not just to unders
   <img src="https://github.com/user-attachments/assets/4ce94268-1cd6-4735-845c-8f5c9b995928" title="Fortinet Firewall" width="45" height="40" />
   </p>
 
-<!-- 📊 GitHub Contributions Section -->
-<h2>📊 GitHub Contributions</h2>
+## 📈 Contributions & Activity
 
-<!-- Snake Animation -->!
+<div align="center">
+
+  <!-- GitHub Streak Stats -->
+  <a href="https://github.com/HameesNisar">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=HameesNisar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+  </a>
+
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/HameesNisar">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HameesNisar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  </a>
+
+</div>
+
+---
+
+### 🐍 Digital Serpent Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HameesNisar/HameesNisar/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/HameesNisar/HameesNisar/output/snake.svg" alt="Digital Serpent GitHub Contributions Animation" />
 </p>
+
+
+
+
+
+
 
 <!-- GitHub Streak Stats -->
 <p align="center">
