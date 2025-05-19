@@ -8,7 +8,7 @@
 
 <!-- 📞 Contact -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HameesNisar&style=flat-square&color=blue" alt="Profile views"/><br><br>
+  <img src="https://komarev.com/ghpvc/?username=HameesNisar&style=flat-square&color=blue" alt="Profile views"/>
   <a href="https://www.linkedin.com/in/hamees-nisar-bb49072b5/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
