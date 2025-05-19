@@ -58,25 +58,23 @@ I’m diving deep into cybersecurity and computer science — not just to unders
 
 <!-- Portfolio Section -->
 <h2>🚀 Portfolio</h2>
-<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
-  <!-- Left: Portfolio Projects -->
-  <div style="flex: 1; min-width: 280px;">
-    <a href="https://tryhackme.com/p/HameesNisar" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/TryHackMe-%20Cybersecurity%20Labs-red?style=for-the-badge&logo=tryhackme" alt="TryHackMe Profile">
-    </a>
-    <br><br>
-    <a href="https://github.com/HameesNisar/zora-chatbot" target="_blank" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Zora-%20AI%20Chatbot-blueviolet?style=for-the-badge&logo=github" alt="Zora - AI Chatbot">
-    </a>
-    <br><br>
-    <em>💡 More projects coming soon...</em>
-  </div>
-  
-  <!-- Right: GitHub Language Chart -->
-  <div style="flex: 1; min-width: 280px; text-align: right;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HameesNisar&layout=compact&langs_count=10&theme=radical" alt="Top Languages Used" />
-  </div>
-</div>
+<p align="left">
+  <a href="https://tryhackme.com/p/HameesNisar" target="_blank" style="text-decoration: none;">
+    <img align="left" src="https://img.shields.io/badge/TryHackMe-%20Cybersecurity%20Labs-red?style=for-the-badge&logo=tryhackme" alt="TryHackMe Profile">
+  </a>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HameesNisar&layout=compact&langs_count=10&theme=radical" alt="Top Languages Used" />
+</p>
+<br><br>
+<p align="left">
+  <a href="https://github.com/HameesNisar/zora-chatbot" target="_blank" style="text-decoration: none;">
+    <img align="left" src="https://img.shields.io/badge/Zora-%20AI%20Chatbot-blueviolet?style=for-the-badge&logo=github" alt="Zora - AI Chatbot">
+  </a>
+</p>
+<br><br>
+
+<p align="left">
+  <em>💡 More projects coming soon...</em>
+</p>
 
 
 
