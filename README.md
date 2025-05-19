@@ -137,7 +137,7 @@ I’m diving deep into cybersecurity and computer science — not just to unders
   <!-- Palo Alto Networks -->
   <img src="https://cdn.worldvectorlogo.com/logos/palo-alto-networks-1.svg" title="Palo Alto Networks" width="40" />
   <!-- Fortinet Firewall -->
-  <img src="https://github.com/user-attachments/assets/4ce94268-1cd6-4735-845c-8f5c9b995928" title="Fortinet Firewall" width="90" />
+  <img src="https://github.com/user-attachments/assets/4ce94268-1cd6-4735-845c-8f5c9b995928" title="Fortinet Firewall" width="40" height="40" />
   </p>
 
 <!-- 📊 GitHub Contributions Section -->
