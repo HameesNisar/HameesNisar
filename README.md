@@ -56,25 +56,30 @@ I’m diving deep into cybersecurity and computer science — not just to unders
 </ul>
 
 <!-- Portfolio Section -->
-  <h2>🚀 Portfolio</h2>
-  <div>
+<h2>🚀 Portfolio</h2>
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap; gap: 20px;">
+
+  <!-- Left: Portfolio Projects -->
+  <div style="flex: 1; min-width: 280px;">
     <a href="https://tryhackme.com/p/HameesNisar" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/TryHackMe-%20Cybersecurity%20Labs-red?style=for-the-badge&logo=tryhackme" alt="TryHackMe Profile">
     </a>
     <br><br>
-     <a href="https://github.com/HameesNisar/zora-chatbot" target="_blank" style="text-decoration: none;">
+    <a href="https://github.com/HameesNisar/zora-chatbot" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Zora-%20AI%20Chatbot-blueviolet?style=for-the-badge&logo=github" alt="Zora - AI Chatbot">
     </a>
     <br><br>
     <em>💡 More projects coming soon... including CS50 Finance!</em>
   </div>
 
-  <!-- Right Side: Languages Used Card -->
-  <div align = "right">
+  <!-- Right: GitHub Language Chart -->
+  <div style="flex: 1; min-width: 280px; text-align: right;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HameesNisar&layout=compact&langs_count=10&theme=radical" alt="Top Languages Used" />
   </div>
 
 </div>
+
 
 <br>
 <br>
