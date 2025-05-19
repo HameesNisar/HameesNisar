@@ -126,13 +126,20 @@ I’m diving deep into cybersecurity and computer science — not just to unders
   <img src="https://cdn.worldvectorlogo.com/logos/openvpn-2.svg" title="OpenVPN" width="40" />
   <!-- Cloud Security & Firewalls (Shield Badges) -->
 
-  <img src="https://img.shields.io/badge/AWS_Security-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Security" />
-  <img src="https://img.shields.io/badge/Azure_Security-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Security" />
-  <img src="https://img.shields.io/badge/Google_Cloud_Security-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP Security" />
-  <img src="https://img.shields.io/badge/Firewalls-FF4500?style=for-the-badge&logo=firewallconfig&logoColor=white" alt="Firewalls" />
-  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" />
-  <img src="https://img.shields.io/badge/Palo_Alto-FA582D?style=for-the-badge&logo=paloaltonetworks&logoColor=white" alt="Palo Alto Networks" />
-
+  <!-- Cloud Security & Firewalls (Logos) -->
+  
+  <!-- AWS Security -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS Security" width="40" />
+  <!-- Azure Security -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure Security" width="40" />
+  <!-- Google Cloud Security -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Security" width="40" />
+  <!-- Generic Firewall -->
+  <img src="https://cdn-icons-png.flaticon.com/512/2592/2592258.png" title="Firewalls" width="40" />
+  <!-- pfSense -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/PfSense_logo.png" title="pfSense Firewall" width="40" /> 
+  <!-- Palo Alto Networks -->
+  <img src="https://www.paloaltonetworks.com/content/dam/pan/en_US/images/logos/brand/primary-company-logo/PANW_Parent_Brand_Primary_Logo_RGB.png" title="Palo Alto Networks" width="40" />
   </p>
 
 <!-- 📊 GitHub Contributions Section -->
