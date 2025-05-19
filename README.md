@@ -55,7 +55,6 @@ I’m diving deep into cybersecurity and computer science — not just to unders
   <li>📚 <em>Also pursuing various CPE courses</em> such as "The Complete Cyber Security Course" series (Hackers Exposed, Network Security, Endpoint Protection, etc.) to strengthen foundational knowledge.</li>
 </ul>
 
-
 <!-- Portfolio Section -->
 <h2>🚀 Portfolio</h2>
 <p align="left">
@@ -71,12 +70,14 @@ I’m diving deep into cybersecurity and computer science — not just to unders
   </a>
 </p>
 <br><br>
-
 <p align="left">
   <em>💡 More projects coming soon...</em>
 </p>
 
-
+## 💻 Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white)
 
 <br>
 <br>
