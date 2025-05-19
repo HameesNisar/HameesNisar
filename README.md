@@ -55,32 +55,32 @@ I’m diving deep into cybersecurity and computer science — not just to unders
   <li>📚 <em>Also pursuing various CPE courses</em> such as "The Complete Cyber Security Course" series (Hackers Exposed, Network Security, Endpoint Protection, etc.) to strengthen foundational knowledge.</li>
 </ul>
 
-<!-- GitHub Language Stats -->
+<!-- Portfolio Section -->
 <div align="center">
-  <h2>Language Usage Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HameesNisar&layout=compact&theme=transparent" alt="Top Languages Used by HameesNisar">
+  <h2>🚀 Portfolio</h2>
 </div>
 
-## ⚡Showcases⚡
-<p align="left">
-  <a href="https://github.com/HameesNisar?tab=repositories" title="GitHub">
-    <img align="left" width="30" src="https://github.com/HameesNisar/HameesNisar/assets/164525130/0897ae9b-4775-46d2-9409-0ab6dfd660ba" style="vertical-align: middle;">
-  </a>
-  <span style="font-size: 20px; vertical-align: middle;"><b>Portfolio Activities</b></span>
-  <img align="right" width="390" src="https://github-readme-stats.vercel.app/api?username=HameesNisar&show_icons=true&theme=tokyonight" />
-</p>
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
 
-<p align="left">
-  <a href="https://tryhackme.com/p/HameesNisar" title="TryHackMe">
-    <img align="left" width="35" src="https://github.com/HameesNisar/HameesNisar/assets/164525130/ade2857b-edc9-4b47-8f80-9bb09d8b1ffc" style="vertical-align: middle;">
-  </a>
-<span style="font-size: 20px; vertical-align: left;"><b>CyberSecurity hands-on training and learning</b></span>
+  <!-- Left Side: Portfolio Cards -->
+  <div style="flex: 1; min-width: 250px; max-width: 500px;">
+    <a href="https://github.com/HameesNisar/zora-chatbot" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Zora-%20AI%20Chatbot-blueviolet?style=for-the-badge&logo=github" alt="Zora - AI Chatbot">
+    </a>
+    <br><br>
+    <a href="https://tryhackme.com/p/HameesNisar" target="_blank" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/TryHackMe-%20Cybersecurity%20Labs-red?style=for-the-badge&logo=tryhackme" alt="TryHackMe Profile">
+    </a>
+    <br><br>
+    <em>💡 More projects coming soon... including CS50 Finance!</em>
+  </div>
 
-<p align="left">
-  <a href="https://play.picoctf.org/users/Hamees" title="Pico CTF">
-    <img align="left" width="40" src="https://github.com/HameesNisar/HameesNisar/assets/164525130/e8ca59ba-7c9b-4978-b0e5-8b87d5963d18" style="vertical-align: middle;">
-  </a>
-<span style="font-size: 20px; vertical-align: middle;"><b>CyberSecurity CTF challenges and training</b></span>
+  <!-- Right Side: Languages Used Card -->
+  <div style="flex: 1; min-width: 250px; max-width: 500px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HameesNisar&layout=compact&langs_count=10&theme=radical" alt="Top Languages Used" />
+  </div>
+
+</div>
 
 <br>
 <br>
