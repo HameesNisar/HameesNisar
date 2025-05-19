@@ -1,4 +1,4 @@
-<h1> Hey! <img src="https://github.com/HameesNisar/HameesNisar/assets/164525130/138f85a4-b81d-4c5b-8ad3-91d47dc78ce3" width="30"/>  Nice to see you. I'm </h1>
+ <h1> Hey! <img src="https://github.com/HameesNisar/HameesNisar/assets/164525130/138f85a4-b81d-4c5b-8ad3-91d47dc78ce3" width="30"/>  Nice to see you. I'm </h1>
 
 <p align="center">
   <img src="https://github.com/HameesNisar/HameesNisar/assets/164525130/a975f04b-70f9-4be5-bdf9-eb693502fd7d" alt="giphy">
@@ -126,7 +126,7 @@ I’m diving deep into cybersecurity and computer science — not just to unders
 <!-- VirtualBox -->
 <img src="https://www.virtualbox.org/graphics/vbox_logo2_gradient.png" title="VirtualBox VM" width="40" />
 <!-- VMware -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" title="VMware Workstation" width="40" height= "20" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" title="VMware Workstation" width="40" height= "10" />
 <!-- TryHackMe -->
 <img src="https://assets.tryhackme.com/img/favicon.png" title="TryHackMe" width="40" />
 <!-- Metasploit -->
