@@ -56,14 +56,14 @@ I’m diving deep into cybersecurity and computer science — not just to unders
 </ul>
 
 <!-- Portfolio Section -->
-<div align="center">
+<div align="left">
   <h2>🚀 Portfolio</h2>
 </div>
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
 
   <!-- Left Side: Portfolio Cards -->
-  <div style="flex: 1; min-width: 250px; max-width: 500px;">
+  <div>
     <a href="https://github.com/HameesNisar/zora-chatbot" target="_blank" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Zora-%20AI%20Chatbot-blueviolet?style=for-the-badge&logo=github" alt="Zora - AI Chatbot">
     </a>
