@@ -129,17 +129,15 @@ I’m diving deep into cybersecurity and computer science — not just to unders
   <!-- Cloud Security & Firewalls (Logos) -->
   
   <!-- AWS Security -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS Security" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS Security" width="40" />
   <!-- Azure Security -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure Security" width="40" />
   <!-- Google Cloud Security -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Security" width="40" />
   <!-- Palo Alto Networks -->
   <img src="https://cdn.worldvectorlogo.com/logos/palo-alto-networks-1.svg" title="Palo Alto Networks" width="40" />
- 
-  
-  <!-- Alternative Firewall Icon -->
-  <img src="https://static-00.iconduck.com/assets.00/firewall-icon-512x512-bts6phxb.png" title="Firewalls" width="40" />
+  <!-- Fortinet Firewall -->
+  <img src="https://cdn.worldvectorlogo.com/logos/fortinet.svg" title="Fortinet Firewall" width="40" />
   </p>
 
 <!-- 📊 GitHub Contributions Section -->
