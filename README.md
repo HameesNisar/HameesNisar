@@ -142,12 +142,17 @@ I’m diving deep into cybersecurity and computer science — not just to unders
 
 ## 📈 Contributions & Activity
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HameesNisar&theme=radical&hide_border=true" alt="GitHub Streak Stats" style="width: 48%; min-width: 300px; height: 200px; display: block;"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HameesNisar&theme=radical&hide_border=true" width="400" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=HameesNisar&show_icons=true&theme=radical&hide_border=true" width="400" />
+    </td>
+  </tr>
+</table>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=HameesNisar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="width: 48%; min-width: 300px; height: 200px; display: 
-   block;"/>
-</div>
 
 <h2>🐍 Digital Serpent Contributions</h2>
 
