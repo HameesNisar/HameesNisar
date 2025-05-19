@@ -126,7 +126,7 @@ I’m diving deep into cybersecurity and computer science — not just to unders
 <!-- VirtualBox -->
 <img src="https://www.virtualbox.org/graphics/vbox_logo2_gradient.png" title="VirtualBox VM" width="40" />
 <!-- VMware -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" title="VMware Workstation" width="40" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" title="VMware Workstation" width="40" height= "20" />
 <!-- TryHackMe -->
 <img src="https://assets.tryhackme.com/img/favicon.png" title="TryHackMe" width="40" />
 <!-- Metasploit -->
