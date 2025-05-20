@@ -10,21 +10,16 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HameesNisar" alt="Profile Visit Counter">
   <a href="https://www.linkedin.com/in/hamees-nisar-bb49072b5/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" alt="linkedin logo">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width = "30" alt="linkedin logo">
   </a>
   <a href="https://t.me/ChripPine">
-    <img src="https://cdn.simpleicons.org/telegram/2CA5E0" height="20" alt="telegram logo">
+    <img src="https://cdn.simpleicons.org/telegram/2CA5E0" height="30" width = "30" alt="telegram logo">
   </a>
   <a href="https://x.com/NerdyPineChrip">
-    <img src="https://cdn.simpleicons.org/x/000000" height="20" alt="x logo">
+    <img src="https://cdn.simpleicons.org/x/000000" height="30" width = "30" alt="x logo">
   </a>
   <a href="mailto:hameesnisar1@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" height="20" alt="gmail logo">
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HameesNisar&style=flat-square&color=blue" alt="Profile views"/>
+    <img src="https://cdn.simpleicons.org/gmail/D14836" height="30" width = "30" alt="gmail logo">
 </p>
 
 <h2>💡 About Me</h2> 
