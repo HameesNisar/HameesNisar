@@ -8,21 +8,18 @@
 
 <!-- 📬 Let's Connect (Minimal Icons) -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/hamees-nisar-bb49072b5/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" style="margin: 0 10px;">
+  <img src="https://komarev.com/ghpvc/?username=HameesNisar" alt="Profile Visit Counter">
+  <a href="https://www.linkedin.com/in/hamees-nisar-bb49072b5/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="20" alt="linkedin logo">
   </a>
-  <a href="https://t.me/ChripPine" target="_blank">
-    <img src="https://cdn.simpleicons.org/telegram/2CA5E0" alt="Telegram" height="30" style="margin: 0 10px;">
+  <a href="https://t.me/ChripPine">
+    <img src="https://cdn.simpleicons.org/telegram/2CA5E0" height="20" alt="telegram logo">
   </a>
-  <a href="https://x.com/NerdyPineChrip" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000" alt="X" height="30" style="margin: 0 10px;">
+  <a href="https://x.com/NerdyPineChrip">
+    <img src="https://cdn.simpleicons.org/x/000000" height="20" alt="x logo">
   </a>
-  <a href="mailto:hameesnisar1@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" alt="Gmail" height="30" style="margin: 0 10px;">
-  </a>
-  <a href="https://github.com/HameesNisar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" style="margin: 0 10px;">
-  </a>
+  <a href="mailto:hameesnisar1@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/D14836" height="20" alt="gmail logo">
 </p>
 
 
