@@ -151,7 +151,7 @@ I’m diving deep into cybersecurity and computer science — not just to unders
   <div align="center">
   <!-- GitHub Streak Stats -->
   <a href="https://github.com/HameesNisar">
-    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=HameesNisar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+    <img width="48%" height="180em" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=HameesNisar&theme=radical&hide_border=true" alt="GitHub Streak Stats"/>
   </a>
     
   <!-- GitHub Stats Card -->
