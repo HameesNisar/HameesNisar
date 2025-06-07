@@ -45,9 +45,9 @@ I’m diving deep into cybersecurity and computer science — not just to unders
 <h2>🎓 <strong>Certifications</strong></h2>
 <ul>
   <li>📘 <strong>CS50x:</strong> <a href="https://certificates.cs50.io/f2175dde-2ed6-4624-8818-26e25dcc5a0e.png?size=A4" target="_blank">Harvard’s Intro to Computer Science</a>
-    <img src="https://cs50.ai/static/img/ddb50.gif" width="20" alt="CS50x Badge" />
-  </li>
+    <img src="https://cs50.ai/static/img/ddb50.gif" width="20" alt="CS50x Badge" /></li>
   <li>🛡️ <strong>CS50:</strong> <a href="https://certificates.cs50.io/faaacf3e-18bc-4fc9-bfbc-f8cabc3054f0.png?size=A4" target="_blank">Cybersecurity Certificate</a></li>
+  <li>🎓 <strong>Stanford Code in Place:</strong> <a href="https://codeinplace.stanford.edu/cip5/certificate/yhfr0l" target="_blank">Certificate of Completion</a></li>
 </ul>
 
 <h2>🌱 Currently Learning</h2>
