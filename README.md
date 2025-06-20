@@ -77,6 +77,18 @@ I’m diving deep into cybersecurity and computer science — not just to unders
 </p>
 <br><br>
 <p align="left">
+  <a href="https://github.com/HameesNisar/ByteShield-VirusScanner" target="_blank" style="text-decoration: none;">
+    <img align="left" src="https://img.shields.io/badge/ByteShield-%20Virus%20Scanner-brightgreen?style=for-the-badge&logo=shield&logoColor=white" alt="ByteShield - Virus Scanner">
+  </a>
+</p>
+<br><br>
+<p align="left">
+  <a href="https://github.com/HameesNisar/Stoxxy-StockTracker" target="_blank" style="text-decoration: none;">
+    <img align="left" src="https://img.shields.io/badge/Stoxy-%20Stock%20Tracker-orange?style=for-the-badge&logo=chart-line&logoColor=white" alt="Stoxy - Stock Tracker">
+  </a>
+</p>
+<br><br>
+<p align="left">
   <em>💡 More projects coming soon...</em>
 </p>
 
