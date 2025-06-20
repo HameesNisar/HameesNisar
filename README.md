@@ -81,7 +81,7 @@ I’m diving deep into cybersecurity and computer science — not just to unders
     <img align="left" src="https://img.shields.io/badge/ByteShield-%20Virus%20Scanner-brightgreen?style=for-the-badge&logo=github" alt="ByteShield - Virus Scanner">
   </a>
 </p>
-<br><br>
+<br>
 <p align="left">
   <a href="https://github.com/HameesNisar/Stoxxy-StockTracker" target="_blank" style="text-decoration: none;">
     <img align="left" src="https://img.shields.io/badge/Stoxy-%20Stock%20Tracker-orange?style=for-the-badge&logo=github" alt="Stoxy - Stock Tracker">
