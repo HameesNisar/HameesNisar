@@ -69,19 +69,19 @@ I’m diving deep into cybersecurity and computer science — not just to unders
   </a>
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HameesNisar&layout=compact&langs_count=10&theme=radical" alt="Top Languages Used" />
 </p>
-<br><br>
+<br>
 <p align="left">
   <a href="https://github.com/HameesNisar/zora-chatbot" target="_blank" style="text-decoration: none;">
     <img align="left" src="https://img.shields.io/badge/Zora-%20AI%20Chatbot-blueviolet?style=for-the-badge&logo=github" alt="Zora - AI Chatbot">
   </a>
 </p>
-<br><br>
+<br>
 <p align="left">
   <a href="https://github.com/HameesNisar/ByteShield-VirusScanner" target="_blank" style="text-decoration: none;">
     <img align="left" src="https://img.shields.io/badge/ByteShield-%20Virus%20Scanner-brightgreen?style=for-the-badge&logo=shield&logoColor=white" alt="ByteShield - Virus Scanner">
   </a>
 </p>
-<br><br>
+<br>
 <p align="left">
   <a href="https://github.com/HameesNisar/Stoxxy-StockTracker" target="_blank" style="text-decoration: none;">
     <img align="left" src="https://img.shields.io/badge/Stoxy-%20Stock%20Tracker-orange?style=for-the-badge&logo=chart-line&logoColor=white" alt="Stoxy - Stock Tracker">
