@@ -94,31 +94,56 @@ I’m diving deep into cybersecurity and computer science — not just to unders
 
 <!-- Tech Arsenal Section -->
 <h2>🛠️ Tech Arsenal</h2>
+
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" title="C Language" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" />
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" />
+  <!-- C -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C Language" width="40" />
+  <!-- HTML5 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" />
+  <!-- CSS3 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" />
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" />
+  <!-- PHP -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" width="40" />
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" />
+  <!-- Flask -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="40" />
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" />
 
-    
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" title="Cisco Networking" width="40" />
-    <img src="https://www.wireshark.org/assets/icons/wireshark-fin.png" title="Wireshark Packet Analyzer" width="40" />
-    <img src="https://nmap.org/images/nmap-logo-256x256.png" title="Nmap Network Scanner" width="40" />
-    <img src="https://portswigger.net/content/images/logos/burp-suite-icon.svg" title="Burp Suite" width="40" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" title="VMware Workstation" width="40" />
-    <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" title="Metasploit Framework" width="40" />
+  <!-- Networking & Cybersecurity Tools -->
+  <!-- Cisco -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" title="Cisco Networking" width="40" />
+  <!-- Wireshark -->
+  <img src="https://www.wireshark.org/assets/icons/wireshark-fin.png" title="Wireshark Packet Analyzer" width="40" />
+  <!-- Nmap -->
+  <img src="https://nmap.org/images/nmap-logo-256x256.png" title="Nmap Network Scanner" width="40" />
+  <!-- Burp Suite -->
+  <img src="https://portswigger.net/content/images/logos/burp-suite-icon.svg" title="Burp Suite" width="40" />
+  <!-- VMware -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" title="VMware Workstation" width="40" />
+  <!-- Metasploit -->
+  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" title="Metasploit Framework" width="40" />
+  <!-- OpenVPN -->
+  <img src="https://cdn.worldvectorlogo.com/logos/openvpn-2.svg" title="OpenVPN" width="40" />
+  
+  <!-- Cloud Security & Firewalls (Shield Badges) -->
+  <!-- Cloud Security & Firewalls (Logos) -->
+  <!-- AWS Security -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS Security" width="40" />
+  <!-- Azure Security -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure Security" width="40" />
+  <!-- Google Cloud Security -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Security" width="40" />
+  <!-- Palo Alto Networks -->
+  <img src="https://cdn.worldvectorlogo.com/logos/palo-alto-networks-1.svg" title="Palo Alto Networks" width="40" />
+  <!-- Fortinet Firewall -->
+  <img src="https://github.com/user-attachments/assets/4ce94268-1cd6-4735-845c-8f5c9b995928" title="Fortinet Firewall" width="45" height="40" />
 
-    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS Security" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure Security" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Security" width="40" />
-    <img src="https://cdn.worldvectorlogo.com/logos/palo-alto-networks-1.svg" title="Palo Alto Networks" width="40" />
-    <img src="https://github.com/user-attachments/assets/4ce94268-1cd6-4735-845c-8f5c9b995928" title="Fortinet Firewall" width="45" height="40" />
   </p>
 
   <h2>📈 Contributions & Activity</h2>
