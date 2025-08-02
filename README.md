@@ -112,12 +112,6 @@ I’m diving deep into cybersecurity and computer science — not just to unders
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" />
   <!-- Flask -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="40" />
-  <!-- Git -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" />
-  <!-- GitHub -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" />
-  <!-- Bash -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" width="40" />
   <!-- MySQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" />
 
@@ -131,12 +125,8 @@ I’m diving deep into cybersecurity and computer science — not just to unders
   <img src="https://nmap.org/images/nmap-logo-256x256.png" title="Nmap Network Scanner" width="40" />
   <!-- Burp Suite -->
   <img src="https://portswigger.net/content/images/logos/burp-suite-icon.svg" title="Burp Suite" width="40" />
-  <!-- VirtualBox -->
-  <img src="https://www.virtualbox.org/graphics/vbox_logo2_gradient.png" title="VirtualBox VM" width="40" height= "40"  />
   <!-- VMware -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" title="VMware Workstation" width="40" />
-  <!-- TryHackMe -->
-  <img src="https://assets.tryhackme.com/img/favicon.png" title="TryHackMe" width="40" />
   <!-- Metasploit -->
   <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" title="Metasploit Framework" width="40" />
   <!-- Kali Linux -->
