@@ -65,9 +65,8 @@ I spend my time in lab environments like GNS3, building complex topologies and a
   <li>🧠 <strong>Currently Studying:</strong> Google Cybersecurity Certificate</li>
   <li>🚀 <strong>Planned for Future:</strong> Firewalls & Cloud Security, CompTIA Security+</li>
 </ul>
-<br>
 <em>Note: I am also actively pursuing various Continuing Professional Education (CPE) courses to strengthen my foundational knowledge in cybersecurity.</em>
-
+<br>
 
 <!-- Portfolio Section -->
 <h2>🚀 Portfolio</h2>
