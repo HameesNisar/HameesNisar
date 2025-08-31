@@ -101,38 +101,27 @@ I spend my time in lab environments like GNS3, building complex topologies and a
 
 
 <h2>🛠️ Tech Arsenal</h2>
-
-<h3><strong>Networking & Virtualization</strong></h3>
-<p>
+<p align="left">
+    <!-- Networking & Virtualization -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" title="Cisco Networking" alt="Cisco" width="40" height="40"/>&nbsp;
-    <img src="https://www.vectorlogo.zone/logos/gns3/gns3-icon.svg" title="GNS3" alt="GNS3" width="40" height="40"/>&nbsp;
+    <img src="https://images.icon-icons.com/1381/PNG/512/gns3_94911.png" title="GNS3" alt="GNS3" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" title="VMware Workstation" alt="VMware" width="40" height="40"/>&nbsp;
     <img src="https://www.wireshark.org/assets/icons/wireshark-fin.png" title="Wireshark Packet Analyzer" alt="Wireshark" width="40" height="40"/>&nbsp;
-</p>
-
-<h3><strong>Operating Systems & Scripting</strong></h3>
-<p>
+    <!-- OS & Scripting -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C Language" alt="C" width="40" height="40"/>&nbsp;
-</p>
-
-<h3><strong>Cybersecurity Tools</strong></h3>
-<p>
+    <!-- Cybersecurity Tools -->
     <img src="https://nmap.org/images/nmap-logo-256x256.png" title="Nmap Network Scanner" alt="Nmap" width="40" height="40"/>&nbsp;
     <img src="https://portswigger.net/content/images/logos/burp-suite-icon.svg" title="Burp Suite" alt="Burp Suite" width="40" height="40"/>&nbsp;
     <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" title="Metasploit Framework" alt="Metasploit" width="40" height="40"/>&nbsp;
-</p>
-
-<h3><strong>Other Technologies</strong></h3>
-<p>
+    <!-- Other Technologies -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 </p>
-
 
 
   <h2>📈 Contributions & Activity</h2>
