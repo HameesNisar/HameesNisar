@@ -4,7 +4,7 @@
   <img src="https://github.com/HameesNisar/HameesNisar/assets/164525130/a975f04b-70f9-4be5-bdf9-eb693502fd7d" alt="giphy">
 </p>
 
-<h3 align="center">A passionate Cybersecurity enthusiast🛡</h3>
+<h3 align="center">CCNA & CCNP Certified | Aspiring Network Security Engineer🛡</h3>
 
 <!-- Profile Views -->
 <p align="center">
@@ -29,7 +29,8 @@
 
 <h2>💡 About Me</h2> 
 <img align="right" width="250" height = "250" src="https://github.com/HameesNisar/HameesNisar/assets/164525130/22fe2423-0883-49e4-b886-084b9c711310"/>
-I’m diving deep into cybersecurity and computer science — not just to understand how systems work, but how to break, fix, and secure them. I thrive on logic, chase the thrill of solving complex problems, and never stop learning. Whether it’s scripting, networking, or system hardening, I don’t just want to follow the rules — I want to master the entire landscape.<br>
+I'm a CCNP Enterprise and CCNA certified network professional, passionate about building and securing digital infrastructure. My focus is on applying my deep understanding of routing and switching to solve real-world problems in a Junior Network Engineer or NOC role.<br>
+I spend my time in lab environments like GNS3, building complex topologies and analyzing protocols with Wireshark. My long-term goal is to specialize in Network Security, using my strong infrastructure knowledge as a foundation to protect critical systems.<br>
 
 <br>
 <strong>👨‍💻 I’m currently working on...</strong>
