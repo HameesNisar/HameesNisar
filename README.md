@@ -43,24 +43,31 @@ I spend my time in lab environments like GNS3, building complex topologies and a
   <li>🔒 Applying foundational security principles by implementing Access Control Lists (ACLs) and hardening device configurations in my labs.</li>
 </ul>
 
-<h2>🎓 <strong>Certifications</strong></h2>
+<h2>🎓 Certifications & Professional Development</h2>
+<!-- Certified Section -->
+<h3><strong>Certified</strong></h3>
+<ul>
+  <li><strong>CCNP Enterprise:</strong> Cisco Certified Network Professional <em>(Credly Badge Coming Soon)</em></li>
+  <li><strong>CCNA:</strong> Cisco Certified Network Associate <em>(Credly Badge Coming Soon)</em></li>
+</ul>
+
+<!-- Foundational Certificates Section -->
+<h3><strong>Foundational Certificates</strong></h3>
 <ul>
   <li>📘 <strong>CS50x:</strong> <a href="https://certificates.cs50.io/f2175dde-2ed6-4624-8818-26e25dcc5a0e.png?size=A4" target="_blank">Harvard’s Intro to Computer Science</a>
     <img src="https://cs50.ai/static/img/ddb50.gif" width="20" alt="CS50x Badge" /></li>
   <li>🛡️ <strong>CS50:</strong> <a href="https://certificates.cs50.io/faaacf3e-18bc-4fc9-bfbc-f8cabc3054f0.png?size=A4" target="_blank">Cybersecurity Certificate</a></li>
   <li>🎓 <strong>Stanford Code in Place:</strong> <a href="https://codeinplace.stanford.edu/cip5/certificate/yhfr0l" target="_blank">Certificate of Completion</a></li>
 </ul>
-
-<h2>🌱 Currently Learning</h2>
+<!-- Learning & Future Goals Section -->
+<h3><strong>Learning & Future Goals</strong></h3>
 <ul>
-  <li>📡 <strong>CCNA:</strong> Cisco Certified Network Associate (Studying)</li>
-  <li>🧠 <strong>Google Cybersecurity Professional Certificate</strong> (Studying)</li>
-  <li>🚀 <strong>CCNP:</strong> Enterprise Infrastructure & Security (Planned)</li>
-  <li>🛡️ <strong>Firewalls & Advanced Network Defense</strong> (Planned)</li>
-  <li>☁️ <strong>Cloud Security Fundamentals</strong> (Planned)</li>
-  <li>🔒 <strong>CompTIA Security+</strong> (Planned)</li>
-  <li>📚 <em>Also pursuing various CPE courses</em> such as "The Complete Cyber Security Course" series (Hackers Exposed, Network Security, Endpoint Protection, etc.) to strengthen foundational knowledge.</li>
+  <li>🧠 <strong>Currently Studying:</strong> Google Cybersecurity Certificate</li>
+  <li>🚀 <strong>Planned for Future:</strong> Firewalls & Cloud Security, CompTIA Security+</li>
 </ul>
+<br>
+<em>Note: I am also actively pursuing various Continuing Professional Education (CPE) courses to strengthen my foundational knowledge in cybersecurity.</em>
+
 
 <!-- Portfolio Section -->
 <h2>🚀 Portfolio</h2>
