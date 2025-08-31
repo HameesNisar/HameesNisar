@@ -33,14 +33,14 @@ I'm a CCNP Enterprise and CCNA certified network professional, passionate about 
 I spend my time in lab environments like GNS3, building complex topologies and analyzing protocols with Wireshark. My long-term goal is to specialize in Network Security, using my strong infrastructure knowledge as a foundation to protect critical systems.<br>
 
 <br>
+
 <strong>👨‍💻 I’m currently working on...</strong>
 <br>
 <ul>
-  <li>Carving my own path through hands-on labs, real-world scenarios, and continuous learning.</li>
-  <li>Keeping up with the latest cyber threats, vulnerabilities, and security tools — staying one step ahead is the game.</li>
-  <li>Mastering tools and techniques on TryHackMe, Hack The Box, and other platforms — turning theory into practical skills.</li>
-  <li>Building a solid foundation with certifications like Google Cybersecurity, CCNA, and Security+ — pushing myself to be job-ready.</li>
-  <li>Polishing my resume and portfolio while actively applying to internships and jobs — no door too small, no opportunity too far.</li>
+  <li>🏗️ Building and configuring complex, multi-protocol network topologies in GNS3.</li>
+  <li>🔬 Analyzing packet captures with Wireshark to deepen my understanding of TCP/IP and common protocols.</li>
+  <li>🤖 Writing Python scripts to automate basic network tasks and interact with network devices.</li>
+  <li>🔒 Applying foundational security principles by implementing Access Control Lists (ACLs) and hardening device configurations in my labs.</li>
 </ul>
 
 <h2>🎓 <strong>Certifications</strong></h2>
