@@ -101,55 +101,65 @@ I spend my time in lab environments like GNS3, building complex topologies and a
 
 
 <h2>🛠️ Tech Arsenal</h2>
-<!-- Networking & Virtualization Section -->
-<h3><strong>Networking & Virtualization</strong></h3>
-<p align="left">
-  <!-- Cisco -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" title="Cisco Networking" width="40" height="40" />
-  <!-- GNS3 -->
-  <img src="https://www.gns3.com/assets/images/logo-gns3.png" title="GNS3" width="40" height="40" />
-  <!-- VMware -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" title="VMware Workstation" width="40" height="40" />
-  <!-- Wireshark -->
-  <img src="https://www.wireshark.org/assets/icons/wireshark-fin.png" title="Wireshark Packet Analyzer" width="40" height="40" />
-</p>
 
-<!-- Operating Systems & Scripting Section -->
-<h3><strong>Operating Systems & Scripting</strong></h3>
-<p align="left">
-  <!-- Linux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40" />
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40" />
-  <!-- C -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C Language" width="40" height="40" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <!-- Networking & Virtualization Section -->
+      <h3><strong>Networking & Virtualization</strong></h3>
+      <p align="left">
+        <!-- Cisco -->
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Cisco_logo.svg" title="Cisco Networking" width="40" height="40" />
+        <!-- GNS3 (Fixed Link) -->
+        <img src="https://www.vectorlogo.zone/logos/gns3/gns3-icon.svg" title="GNS3" width="40" height="40" />
+        <!-- VMware -->
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" title="VMware Workstation" width="40" height="40" />
+        <!-- Wireshark -->
+        <img src="https://www.wireshark.org/assets/icons/wireshark-fin.png" title="Wireshark Packet Analyzer" width="40" height="40" />
+      </p>
+      
+      <!-- Cybersecurity Tools Section -->
+      <h3><strong>Cybersecurity Tools</strong></h3>
+      <p align="left">
+        <!-- Nmap -->
+        <img src="https://nmap.org/images/nmap-logo-256x256.png" title="Nmap Network Scanner" width="40" height="40" />
+        <!-- Burp Suite -->
+        <img src="https://portswigger.net/content/images/logos/burp-suite-icon.svg" title="Burp Suite" width="40" height="40" />
+        <!-- Metasploit -->
+        <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" title="Metasploit Framework" width="40" height="40" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Operating Systems & Scripting Section -->
+      <h3><strong>Operating Systems & Scripting</strong></h3>
+      <p align="left">
+        <!-- Linux -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" width="40" height="40" />
+        <!-- Python -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="40" height="40" />
+        <!-- C -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C Language" width="40" height="40" />
+      </p>
 
-<!-- Cybersecurity Tools Section -->
-<h3><strong>Cybersecurity Tools</strong></h3>
-<p align="left">
-  <!-- Nmap -->
-  <img src="https://nmap.org/images/nmap-logo-256x256.png" title="Nmap Network Scanner" width="40" height="40" />
-  <!-- Burp Suite -->
-  <img src="https://portswigger.net/content/images/logos/burp-suite-icon.svg" title="Burp Suite" width="40" height="40" />
-  <!-- Metasploit -->
-  <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" title="Metasploit Framework" width="40" height="40" />
-</p>
+      <!-- Other Technologies Section -->
+      <h3><strong>Other Technologies</strong></h3>
+      <p align="left">
+        <!-- HTML5 -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40" />
+        <!-- CSS3 -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40" />
+        <!-- JavaScript -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />
+        <!-- Flask -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="40" height="40" />
+        <!-- MySQL -->
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40" />
+      </p>
+    </td>
+  </tr>
+</table>
 
-<!-- Other Technologies Section -->
-<h3><strong>Other Technologies</strong></h3>
-<p align="left">
-  <!-- HTML5 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="40" height="40" />
-  <!-- CSS3 -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="40" height="40" />
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" />
-  <!-- Flask -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" width="40" height="40" />
-  <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40" />
-</p>
+
 
 
   <h2>📈 Contributions & Activity</h2>
