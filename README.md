@@ -47,8 +47,8 @@ I spend my time in lab environments like GNS3, building complex topologies and a
 <!-- Certified Section -->
 <h3><strong>Certified</strong></h3>
 <ul>
-  <li><strong>CCNP Enterprise:</strong> Cisco Certified Network Professional <em>(Credly Badge Coming Soon)</em></li>
-  <li><strong>CCNA:</strong> Cisco Certified Network Associate <em>(Credly Badge Coming Soon)</em></li>
+  <li><strong>CCNP  Enterprise Infrastructure:</strong> Cisco Certified Network Professional</li>
+  <li><strong>CCNA:</strong> Cisco Certified Network Associate</li>
 </ul>
 
 <!-- Foundational Certificates Section -->
